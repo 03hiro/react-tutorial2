@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/likr-lecture/react-tutorial2-server
+[submodule "client"]
+	path = client
+	url = https://github.com/likr-lecture/react-tutorial2-client
